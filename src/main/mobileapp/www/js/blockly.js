@@ -1,1 +1,1 @@
-window.blockly = window.blockly || {};window.blockly.js = window.blockly.js || {};window.blockly.js.blockly = window.blockly.js.blockly || {};
+window.blockly = window.blockly || {};window.blockly.js = window.blockly.js || {};window.blockly.js.blockly = window.blockly.js.blockly || {};document.write("<script src='js/blockly/Bloco.blockly.js?1527271535000'></script>");
